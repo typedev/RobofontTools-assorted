@@ -1,0 +1,9 @@
+
+*.xml
+*.iml
+.idea/vcs.xml
+.idea/RobofontTools-assorted.iml
+.idea/modules.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/encodings.xml
