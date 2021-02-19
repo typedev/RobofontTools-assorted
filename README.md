@@ -1,5 +1,5 @@
 # RobofontTools-assorted
-some simple tools for Robofont
+some simple tools for Robofont v.3.+
 
 
 
