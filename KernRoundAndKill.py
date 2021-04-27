@@ -1,7 +1,8 @@
-roundAndKill = False
+roundAndKill = True
 for font in AllFonts():
 	pairs2kill = []
 	countrounded = 0
+	print ('\n++++++++++++++++++++++++++++++++++++++++')
 	print (font.info.familyName, font.info.styleName)
 	print ('total:\t', len(font.kerning.items()))
 	for (l,r),v in font.kerning.items():
